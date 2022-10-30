@@ -143,3 +143,5 @@ resource azurerm_network_watcher_flow_log "flow_log" {
     yor_trace            = "33a7212e-7f1a-49fc-af73-8e525c5546ec"
   }
 }
+
+
